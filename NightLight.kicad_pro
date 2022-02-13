@@ -119,7 +119,8 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.2
       ],
       "via_dimensions": [
         {
@@ -342,8 +343,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Etnolit"
+    ],
+    "pinned_symbol_libs": [
+      "Etnolit"
+    ]
   },
   "meta": {
     "filename": "NightLight.kicad_pro",
